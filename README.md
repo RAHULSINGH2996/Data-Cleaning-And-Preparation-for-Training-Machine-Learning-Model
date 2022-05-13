@@ -1,12 +1,17 @@
 # PROJECT: Data-Cleaning-And-Preparation-for-Training-Machine-Learning-Model
 
-In this project we will perform data cleaning on the Titanic Dataset in order to prepare our data, to be used as a training set for a logistic regression Machine Learning model. The final aim of the model would be to predict a classification: Survived or Deceased, but the extent of this project is just uptill the Data cleaning and Preapraton steps.
-We would also be looking at some visualizations of the data in order to get an insight of the classification.
+PROBLEM STATEMENT: Your team is building a Machine Learning model which will predict whether a passenger survived or not in the Titanic crash. As a Junior Data Scientist you are tasked with cleaning and preparation of the data, for it to be used as a training set for the logistic regression Machine Learning model. The final aim of the model would be to predict a classification: Survived or Deceased. 
+
+But here in this project, we are just concerned with the Data cleaning and Preapraton steps.
+
+We would also be looking at some visualizations of the data in order to get an insight of the data.
+
+we are provided with a CSV file containing the details of all the passengers onboard the Titanic at the time of the crash.
 
 The tools used in this project are :
 
 1. Python Pandas
-2. Python Numpy
+2. Python Numpy 
 3. Python Matplotlib
 4. Python Seaborn
 
