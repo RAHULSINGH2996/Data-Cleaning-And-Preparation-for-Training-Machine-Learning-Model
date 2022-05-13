@@ -19,3 +19,6 @@ The major steps involved in Data cleaning and preparation are:
 5. Dropping rows based on conditions
 6. Changing Column formats
 7. Converting Categorical features to numbers, etc.
+
+
+Once all of these steps have been undertaken our data will be consisting of all numbers and would be ready to go into our MAchine Learning model.
