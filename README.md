@@ -18,5 +18,4 @@ The major steps involved in Data cleaning and preparation are:
 4. Adding/Dropping/Renaming Columns
 5. Dropping rows based on conditions
 6. Changing Column formats
-7. Converting Categorical features to numbers.
-8. etc
+7. Converting Categorical features to numbers, etc.
