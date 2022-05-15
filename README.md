@@ -20,10 +20,12 @@ The major steps involved in Data cleaning and preparation are:
 1. Handling missimg values
 2. Handling null values
 3. Handling duplicate values
-4. Adding/Dropping/Renaming Columns
-5. Dropping rows based on conditions
-6. Changing Column formats
-7. Converting Categorical features to numbers, etc.
+4. Removing Errors and Inaccuracies
+5. Remove Outliers and Create Complete Information
+6. Adding/Dropping/Renaming Columns
+7. Dropping rows based on conditions
+8. Changing Column formats
+9. Converting Categorical features to numbers, etc.
 
 
 Once all of these steps have been undertaken our data will be consisting of all numbers and would be ready to go into our MAchine Learning model.
